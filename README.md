@@ -1,2 +1,2 @@
 # accmpr
-accmpr full
+This is a initial commit of accmpr.
